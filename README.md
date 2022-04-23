@@ -6,6 +6,6 @@ Desafio de Projeto **Github**, sou um desenvolvedor **Front-End** em formação,
 
 ____________________________________________
 
-Minhas redes Sociais:
+## Minhas redes Sociais:
 
 [Linkedin](https://www.linkedin.com/in/ananias-nicolau-363138211/)
